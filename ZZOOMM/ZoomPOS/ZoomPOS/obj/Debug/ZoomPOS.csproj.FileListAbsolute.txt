@@ -1,0 +1,10 @@
+D:\ZZOOMM\ZoomPOS\ZoomPOS\bin\Debug\ZoomPOS.exe.config
+D:\ZZOOMM\ZoomPOS\ZoomPOS\bin\Debug\ZoomPOS.exe
+D:\ZZOOMM\ZoomPOS\ZoomPOS\bin\Debug\ZoomPOS.pdb
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.csprojResolveAssemblyReference.cache
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.Properties.Resources.resources
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.csproj.GenerateResource.Cache
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.exe
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.pdb
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.frmSalesInvoice.resources
+D:\ZZOOMM\ZoomPOS\ZoomPOS\obj\Debug\ZoomPOS.frmLogin.resources
